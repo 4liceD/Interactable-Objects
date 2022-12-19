@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: Locker
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 36850780b22b7a74f80e7033861467bd,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: b1ccb547d4738054f9c9894721bbbf67,
     type: 2}
   udonAssembly: 
   assemblyError: 

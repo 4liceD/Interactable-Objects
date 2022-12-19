@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: Hinge
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 852e7d8be3c1cba4bb9f576f6704b2c3,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 159e0f93d9e14864596bd465ab1487e9,
     type: 2}
   udonAssembly: 
   assemblyError: 

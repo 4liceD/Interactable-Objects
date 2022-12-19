@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: MirrorTransparency
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: eec65cabedd8c8f4b9f25c385c3750dc,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: ad95ad7fb7e6705479992dc5e8c406b4,
     type: 2}
   udonAssembly: 
   assemblyError: 

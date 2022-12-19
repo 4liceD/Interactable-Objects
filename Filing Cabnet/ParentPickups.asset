@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: ParentPickups
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 5fdfcbc39243a0d48998d837fd626e4c,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 9cb8e0ab5a5e89345aae939f0abee99d,
     type: 2}
   udonAssembly: 
   assemblyError: 
